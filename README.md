@@ -44,6 +44,13 @@ Usage
 3.  Monitor download progress and status messages.
 
 
+Preview
+-----
+
+![Preview](https://github.com/JCFcodex/YT-PLAYLIST-DOWNLOADER/blob/main/preview.png)
+
+
+
 License
 -------
 
