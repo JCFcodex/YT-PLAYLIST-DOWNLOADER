@@ -1,7 +1,7 @@
 YouTube Playlist Downloader
 ===========================
 
-This project allows users to download videos from YouTube playlists using a web application built with Node.js, Express, React, and yt-dlp.
+This project allows users to download videos from YouTube playlists using a web application built with Node.js, Express, React, and [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
 Installation
 ------------
