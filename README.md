@@ -12,7 +12,7 @@ Installation
     
 2.  pip install yt-dlp
     
-3.  **Set yt-dlp Path**: Add the yt-dlp path (C:\\Users\\<YourName>\\AppData\\Local\\Programs\\Python\\Python312) to your system environment variables.
+3.  **Set yt-dlp Path**: Add the yt-dlp path C:\\Users\\username\\AppData\\Local\\Programs\\Python\\Python312 to your system environment variables.
     
 
 ### Project Setup
