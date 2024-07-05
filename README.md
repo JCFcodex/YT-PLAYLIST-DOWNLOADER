@@ -37,7 +37,7 @@ Installation
   npm start
 ```
 ```diff
-  Open your browser and go to http://localhost:3000 
+  Open your browser and go to http://localhost:3001 
 ```
     
 
